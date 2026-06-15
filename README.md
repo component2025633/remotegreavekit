@@ -1,4 +1,4 @@
-# rle-codec-65bf7f
+# rle-codec-fa88c6
 
 A Rust rle-codec utility.
 
